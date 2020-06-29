@@ -14,3 +14,5 @@ Mongo DB 实现图片的存储
 文件搜索使用了ElasticSearch 
 # 项目的构建
 使用的是Gradle,简化Maven繁琐xml配置、强大支持多工程构建、Groove语言性能。
+
+# 项目运行截图

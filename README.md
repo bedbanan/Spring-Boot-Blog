@@ -16,4 +16,4 @@ Mongo DB 实现图片的存储
 使用的是Gradle,简化Maven繁琐xml配置、强大支持多工程构建、Groove语言性能。
 
 # 项目运行截图
-![](https://github.com/bedbanan/Spring-Boot-Blog/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200629094954.png)
+![主页](https://github.com/bedbanan/Spring-Boot-Blog/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200629094954.png)

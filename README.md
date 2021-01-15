@@ -1,4 +1,7 @@
 # Spring-Boot-Blog
+# 版本
+Elastic Search开始用的是2.2.4后面改成了5以后的版本。
+Spring Boot在开始的时候是1.5并没使用2.0的新版本特性。所以如果换版本可能会存在仓库层的方法需要更换以及。一系列的东西需要更改。MogonDB file 已经在我的仓库中贴了出来
 # 前端 
  使用Thymeleaf 提供spring标准方言和一个与 SpringMVC 完美集成的可选模块，可以快速的实现表单绑定、属性编辑器、国际化等功能。
  使用Bootstrap作为一个web框架,JQuery作为JS的框架
